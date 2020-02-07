@@ -1,18 +1,27 @@
 h2{
     font-size: 30px;
     color:#00ace6;
-    ;
+    
 }
 h1{
     font-size: 35px;
-    color:#004d66 ;
+    color:#00131a ;
     
+}
+ul{
+    font-size: 20px;
+    color:#00ace6;
 }
 body{
     background-color:#007a99;
 }
 img {float: left;
 
+}
+.prof{
+    font-size: 20px;
+    color:#00ace6
+    
 }
 .sidebar{
     width:30;
