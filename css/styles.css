@@ -10,7 +10,7 @@ h1{
 }
 ul{
     font-size: 20px;
-    color:#00ace6;
+    color:black;
 }
 body{
     background-color:#007a99;
@@ -20,7 +20,7 @@ img {float: left;
 }
 .prof{
     font-size: 20px;
-    color:#00ace6
+    color:black;
     
 }
 .sidebar{
@@ -54,7 +54,7 @@ img {float: left;
   margin-right: 50%;
 }
 .column2{
-    width: 350px;
+    width: 325px;
     float: left;
     border-left: 2px solid#00ace6;
   border-right: 4px solid #00ace6;
