@@ -3,6 +3,11 @@ h2{
     color:#00ace6;
     ;
 }
+h1{
+    font-size: 35px;
+    color:#004d66 ;
+    
+}
 body{
     background-color:#007a99;
 }
@@ -42,9 +47,9 @@ img {float: left;
 .column2{
     width: 350px;
     float: left;
-    border-left: 2px solid#007a99;
-  border-right: 4px solid #007a99;
-  border-top: 6px solid black;
+    border-left: 2px solid#00ace6;
+  border-right: 4px solid #00ace6;
+  border-top: 6px solid #00ace6;
   border-bottom: 8px solid black;
   padding: 16px;
   margin: 10px;
